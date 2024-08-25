@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Leetcode Algorithms
+title: 力扣算法题收集
 
 # import hextra as module
 module:
@@ -18,13 +18,13 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: 文档
       pageRef: /docs
       weight: 1
-    - name: About
+    - name: 关于
       pageRef: /about
       weight: 2
-    - name: Search
+    - name: 搜索
       weight: 3
       params:
         type: search
@@ -41,4 +41,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/HLihen/hextra-starter-template-leetcode/edit/main/content"
