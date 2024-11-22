@@ -27,8 +27,11 @@ menu:
     - name: Java 自测
       pageRef: /java-test
       weight: 3
-    - name: 搜索
+    - name: Java 面试
+      pageRef: /java-interview
       weight: 4
+    - name: 搜索
+      weight: 5
       params:
         type: search
 
