@@ -19,13 +19,16 @@ markup:
 menu:
   main:
     - name: 算法
-      pageRef: /docs
+      pageRef: /algorithm
       weight: 1
-    - name: Java
-      pageRef: /java
+    - name: Java 技术面试题
+      pageRef: /java-tech
       weight: 2
-    - name: 搜索
+    - name: Java 自测
+      pageRef: /java-test
       weight: 3
+    - name: 搜索
+      weight: 4
       params:
         type: search
 
